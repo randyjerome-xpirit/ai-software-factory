@@ -53,7 +53,7 @@ Every misconception surfaces either:
 
 ### Phase 3: Factory Pipeline
 
-Approved features enter a 9-agent automated pipeline:
+Approved features enter an 8-stage automated pipeline orchestrated by a 9th Orchestrator agent:
 
 ```
 Story Decomposition (+ bundle quality gate)
