@@ -2,7 +2,7 @@
 
 ## Overview
 
-The factory uses 9 specialized agents running in sequence within GitHub Copilot's agent mode. Each agent has a focused role, produces artifacts stored in ADO work items, and operates within well-defined context boundaries.
+The factory uses 8 specialized sub-agents orchestrated by the Orchestrator (9 total agents). Each agent has a focused role, produces artifacts stored in ADO work items, and operates within well-defined context boundaries.
 
 ## Why Multi-Agent, Despite the Benchmarks
 
